@@ -30,8 +30,8 @@ twitter_username: yulandi
 github_username:  yulandi
 
 # Build settings
-#theme: minima
-theme: minimal
+theme: minima
+#theme: minimal
 plugins:
   - jekyll-feed
 
