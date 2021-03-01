@@ -28,9 +28,9 @@ twitter_username: yulandi
 github_username:  yulandi
 
 # Build settings
-#theme: minima
+theme: minima
 #theme: jekyll-theme-minimal
-theme: jekyll-theme-architect
+#theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 
